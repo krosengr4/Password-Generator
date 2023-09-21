@@ -12,3 +12,7 @@ https://krosengr4.github.io/Password-Generator/
 
 # Link to the starter code:
 https://github.com/coding-boot-camp/friendly-parakeet
+
+# Picture of Application
+![image](https://github.com/krosengr4/Password-Generator/assets/139993281/3f359986-b272-40bf-be34-83ad2e1415f2)
+
