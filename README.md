@@ -1,4 +1,4 @@
-### Description of Application:
+# Description of Application:
 In the Password Generator application, a user can generate a random password between 8 and 128 characters long.
 The characters that can be included are upper and lower case letters, numbers, and a 20 different special characters.
 
@@ -29,6 +29,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-# Links
-Link to the starting code: https://github.com/coding-boot-camp/friendly-parakeet
-Link to the Deployed Application: https://krosengr4.github.io/Password-Generator/
+# Link to the starter code:
+https://github.com/coding-boot-camp/friendly-parakeet
+# Link to the Deployed Application: 
+https://krosengr4.github.io/Password-Generator/
