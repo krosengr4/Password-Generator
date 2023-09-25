@@ -11,4 +11,4 @@ After the user answers these questions, a randomly generated password will then 
 ![Deployed Application](https://krosengr4.github.io/Password-Generator/)
 
 # Link to the starter code:
-![Starter Code](https://github.com/coding-boot-camp/friendly-parakeet)
+https://github.com/coding-boot-camp/friendly-parakeet
