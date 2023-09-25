@@ -8,7 +8,7 @@ The questions are how long they want the password to be, if they want lowercase 
 After the user answers these questions, a randomly generated password will then appear in the box.
 
 # Link to the Deployed Application: 
-![Deployed Application](https://krosengr4.github.io/Password-Generator/)
+[Deployed Application](https://krosengr4.github.io/Password-Generator/)
 
 # Link to the starter code:
-![Starter Code](https://github.com/coding-boot-camp/friendly-parakeet)
+[Starter Code](https://github.com/coding-boot-camp/friendly-parakeet)
