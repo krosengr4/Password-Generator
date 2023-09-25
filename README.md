@@ -1,4 +1,4 @@
-# Description of Application:
+# My Password Generator Application:
 In the Password Generator application, a user can generate a random password between 8 and 128 characters long.
 The characters that can be included are upper and lower case letters, numbers, and a 20 different special characters.
 
