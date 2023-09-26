@@ -12,3 +12,6 @@ After the user answers these questions, a randomly generated password will then 
 
 # Starter Code:
 [Click here for the Starter Code!](https://github.com/coding-boot-camp/friendly-parakeet)
+
+# Picture of Application:
+![image](https://github.com/krosengr4/Password-Generator/assets/139993281/bb61951f-7a42-4e8a-84b7-716a8f117803)
